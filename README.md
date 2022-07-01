@@ -2,8 +2,6 @@
 
 ## Project Overview
 The point of this analysis was to complete an election task for the Colorado Board of Elections. The task consisted of: 
-=======
-The point of this analysis was to complete an election task for the Colorado Board of Elections. The task consisted of: 
  1. Totaling the votes cast.
  2. Create a list of candidates who received votes.
  3. Determine the percentage of votes each candidiate received.
@@ -30,6 +28,7 @@ The analysis shows the following results from the election:
 The purpose of this challenge was to write a script to show the votes based on the counties. The written script should also produce the percentage of votes by county and the county with the largest turnout. With the county script, the output should answer the following:
 - The amount and percentage of votes cast in each county.
 - The county with the largest turnout of voters.
+
 The script was written using new variables, list, and dictionaries for counties based on the examples from the candidate portion. The script also included loops, ifs, and save fucntions based on the candidate examples. 
 
 
