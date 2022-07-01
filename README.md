@@ -2,7 +2,11 @@
 
 ## Project Overview
 
+<<<<<<< HEAD
 The point of this analysis was to complete an election task for the Colorado Board of Elections. The task consisted of: 
+=======
+The point of this analysis was to complete an election task for the Colorado Board of Elections. The task consisted of 
+>>>>>>> 205b4bba4b082445a2eb883960d5195f76b3c629
  1. Totaling the votes cast.
  2. Create a list of candidates who received votes.
  3. Determine the percentage of votes each candidiate received.
@@ -23,6 +27,7 @@ The analysis shows the following results from the election:
     - Charles Casper Stockham: 23.0%
     - Diana DeGette: 73.8%
     - Raymon Anthony Doane: 3.1%
+<<<<<<< HEAD
  - The winning of the election:
    **- Diana DeGette with 272,892 votes (73.8% of the votes)**
 
@@ -37,3 +42,10 @@ The script was written using new variables, list, and dictionaries for counties 
 ### Results
 The aanalysis from the county vote script shows the following results:
 
+=======
+#### - The winning of the election:
+   **Diana DeGette with 272,892 votes (73.8% of the votes)**
+
+## Challenge Overview
+## Challenge Summary
+>>>>>>> 205b4bba4b082445a2eb883960d5195f76b3c629
